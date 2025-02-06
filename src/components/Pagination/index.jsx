@@ -13,7 +13,7 @@ const List = styled("ul")({
 export default function MyPagination() {
   const navigate = useNavigate();
   const { items } = usePagination({
-    count: 5, // 5 səhifə olacaq
+    count: 3, 
   });
 
   return (
@@ -36,7 +36,7 @@ export default function MyPagination() {
                   fontWeight: selected ? "bold" : undefined,
                 }}
                 onClick={() => {
-                  navigate(`/${page}`); // səhifə nömrəsini URL-ə əlavə et
+                  navigate(`/${page}`);
                 }}
                 {...item}
               >

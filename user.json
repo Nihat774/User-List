@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nihat",
+      "surname": "Məmmədov",
+      "school": "AzTU",
+      "course": "Freelance",
+      "icon": "/user.webp"
+    },
+    {
+      "id": "2",
+      "name": "Senan",
+      "surname": "Əliyev",
+      "school": "BDU",
+      "course": "Language",
+      "icon": "/user2.webp"
+    },
+    {
+      "id": "3",
+      "name": "Eli",
+      "surname": "Abbasov",
+      "school": "Khazar",
+      "course": "Computer Science",
+      "icon": "/user3.webp"
+    },
+    {
+      "id": "4",
+      "name": "Adil",
+      "surname": "Zəkiyev",
+      "school": "UNEC",
+      "course": "Economics",
+      "icon": "/user4.webp"
+    },
+    {
+      "id": "5",
+      "name": "Əli",
+      "surname": "Əliyev",
+      "school": "GDU",
+      "course": "Depertament",
+      "icon": "/user5.webp"
+    },
+    {
+      "id": 6,
+      "name": "Asef",
+      "surname": "Asefov",
+      "school": "BMU",
+      "course": "Electrician"
+    },
+    {
+      "id": 7,
+      "name": "Nihat ",
+      "surname": "Məmmədov ",
+      "school": "AZMIU",
+      "course": "IT"
+    },
+    {
+      "id": 8,
+      "name": "Aga ",
+      "surname": "Agayev",
+      "school": "LDU",
+      "course": "Gabbeage"
+    }
+  ]
+}
